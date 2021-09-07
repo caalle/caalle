@@ -1,5 +1,7 @@
 ### Hi 👋 
 
+I'm an Engineering manager currently leading a cross functional team over at [@detectify](https://github.com/detectify)
+
 <!--
 **caalle/caalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
