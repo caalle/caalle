@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I'm engineer currently solvning product, customer and business problems as a Staff Engineer at [@resursbank](https://www.resursbank.se/)
+I'm engineer currently solving product, customer and business problems as a Staff Engineer at [@resursbank](https://www.resursbank.se/)
 
 <!--
 **caalle/caalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
