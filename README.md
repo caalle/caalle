@@ -1,6 +1,6 @@
 ### Hi 👋 
 
-I'm an Engineering manager currently leading cross functional teams over at [@epidemicsound](https://github.com/epidemicsound)
+I'm engineer currently solvning product, customer and business problems as a Staff Engineer at [@resursbank](https://www.resursbank.se/)
 
 <!--
 **caalle/caalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
